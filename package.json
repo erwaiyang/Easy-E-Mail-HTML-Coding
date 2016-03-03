@@ -4,7 +4,7 @@
   "description": "Write your email/newsletter html code happier.",
   "main": "index.js",
   "scripts": {
-    "run": "gulp"
+    "start": "gulp"
   },
   "author": "erwaiyang",
   "license": "MIT",
